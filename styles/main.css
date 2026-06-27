@@ -116,4 +116,8 @@ main {
             }
         }
     }
+
+    .banner {
+        display: none;
+    }
 }
